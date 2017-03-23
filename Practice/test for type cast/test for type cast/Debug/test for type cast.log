@@ -1,0 +1,4 @@
+﻿  test for type cast.cpp
+c:\users\cheri\desktop\job-finding\test for type cast\test for type cast\test for type cast.cpp(22): warning C4309: “初始化”: 截断常量值
+  test for type cast.vcxproj -> C:\Users\cheri\Desktop\Job-Finding\test for type cast\Debug\test for type cast.exe
+  test for type cast.vcxproj -> C:\Users\cheri\Desktop\Job-Finding\test for type cast\Debug\test for type cast.pdb (Full PDB)
